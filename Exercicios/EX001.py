@@ -1,1 +1,2 @@
-print('Olá, Gafanhoto!')
+msg = 'Olá, Gafanhoto!'
+print(msg)
