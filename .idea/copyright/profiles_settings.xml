@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <settings default="MIT">
+    <module2copyright>
+      <element module="All" copyright="MIT" />
+    </module2copyright>
+    <LanguageOptions name="DTD">
+      <option name="relativeBefore" value="false" />
+      <option name="addBlankBefore" value="true" />
+    </LanguageOptions>
+  </settings>
+</component>
