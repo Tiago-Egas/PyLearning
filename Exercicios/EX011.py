@@ -6,5 +6,5 @@ area = alt * lar
 tinta = area / 2
 
 print('')
-print('Área da parede: {}'.format(area))
-print('Latas de tinta necessárias: {}'.format(tinta))
+print('Área da parede: {}m2'.format(area))
+print('Latas de tinta necessárias: {}l'.format(tinta))

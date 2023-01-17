@@ -5,5 +5,5 @@ n2 = float(input('2a nota: '))
 med = (n1 + n2)/2
 
 print('')
-print('Média entre {} e {} é: {:.2f}.'
+print('Média entre {:.1f} e {:.1f} é: {:.1f}.'
       .format(n1, n2, med))
