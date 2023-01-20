@@ -4,7 +4,7 @@ Aprendendo e Exercitando em Python 3 e +100 exercícios.
 ## 💻 Projeto: 
 
 Este é um curso de aprendizado e prática da liguagem Python idealizada pelo
-[Guanabara](https://www.cursoemvideo.com/curso/python-3-mundo-1/). 
+[Guanabara](https://www.cursoemvideo.com/). 
 
 ## 🚀 Ferramentas: 
 
