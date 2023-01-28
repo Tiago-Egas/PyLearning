@@ -1,3 +1,5 @@
+# Aula 07
+
 # Operadores aritmeticos
 # Ordem de precedência
 # 1. parenteses ()
